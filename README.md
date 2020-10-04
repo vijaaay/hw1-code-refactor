@@ -1,5 +1,5 @@
 # Homework: Code Refactor
-https://github.com/vijaaay/hw1-code-refactor/blob/main/code-refactor-screenshot.png
+![Image of Horiseon homepage](https://github.com/vijaaay/hw1-code-refactor/blob/main/code-refactor-screenshot.png)
 
 # Site
 https://vijaaay.github.io/hw1-code-refactor/
