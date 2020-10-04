@@ -1,8 +1,8 @@
 # Homework: Code Refactor
-pic ink
+https://github.com/vijaaay/hw1-code-refactor/blob/main/code-refactor-screenshot.png
 
 # Site
-site link
+https://vijaaay.github.io/hw1-code-refactor/
 
 ## Description
 This homework assignment asked to improve the codebase of a fictional marketing agency, by reworking the HTML and CSS to follow accessibility standards and to be optimized for search engines.
